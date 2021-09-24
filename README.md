@@ -16,6 +16,16 @@ git clone https://github.com/benjaminbenteke/Deep_RL_Project.git
 ```
 cd Deep_RL_Project
 ```
+<h1> Create a virtual environment (or use conda)</h1>
+
+```
+python3 -m venv ENV_NAME
+```
+<h2> Activate your environment </h2>
+
+```
+source ENV_NAME/bin/activate
+```
 
 <h1> Requirement installations</h1>
 To run this, make sure to install all the requirements by:
