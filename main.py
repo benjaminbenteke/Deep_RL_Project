@@ -90,7 +90,7 @@ for i in range(1, args.num_episodes+1):
 plot(scores_all, q_values_all, losses_all)
 # Save GIF image
 images = render_episode(env, q_net, 0, 1500)
-image_file = 'cartpole-v1.gif'
+image_file = 'images/cartpole-v1.gif'
 # loop=0: loop forever, duration=1: play each frame for 1ms
 images[0].save(
     image_file, save_all=True, append_images=images[1:], loop=0, duration=1)
