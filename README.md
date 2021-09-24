@@ -53,26 +53,8 @@ python main.py --model MODEL_NAME
         <h5> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
         Lonagu</a> </h5>
     </div>
-<div>
-        <img src="images/bennn.jpg" height= 7% width= 7%>
-        <h5> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
-        Longau </a> </h5> </div>
-
-<div>
-        <img src="images/pytorch.png" height= 20% width= 50%>
-        <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
-        Longau </a> </h3> </div>
-<div>
-        <img src="images/pytorch.png" height= 50% width= 50%>
-        <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
-        Longau </a> </h3> </div>
-
-<div>
-        <img src="images/pytorch.png" height= 50% width= 50%>
-        <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
-        Longau </a> </h3> </div>
 </div>
-
+        
 
 
 
