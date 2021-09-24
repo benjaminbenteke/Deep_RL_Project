@@ -46,22 +46,32 @@ python main.py --model MODEL_NAME
 </div>
 
 <h1> Contributors </h1>
+<div style="display:flex;align-items:center">
 
 <div style="display:flex;align-items:center">
-    <img src="images/bennn.jpg" height= 5% width= 7%>
+    <div>
+        <img src="images/bennn.jpg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5>
+    </div>
+<div>
     <img src="images/maram.jpeg" height= 7% width= 7%>
-    <img src="images/mikhael.jpeg" height= 7% width= 7%>
-    <img src="images/arnaud.jpeg" height= 7% width= 7%>
-    <img src="images/arnaud.jpeg" height= 7% width= 7%>
-</div>
-<h2> Github Accounts </h2>
-<ul>
-    <li> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </li>
-    <li> <a href='https://github.com/Maramy93'> Maram </a> </li>
-    <li> <a href='https://github.com/Mikhael-P'> Mikhael Presley </a>  </li>
-    <li>  <a href='https://github.com/ARNAUD-25'> Arnaud Watusadisi Mavakala </a> </li>
-    <li> <a href='https://github.com/ARNAUD-25'> Jeannette</a> </li>
-</ul>
+    <h5> <a href='https://github.com/Maramy93'> Maram </a> </h5>
+    </div>
+    <div>
+        <img src="images/mikhael.jpeg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/Mikhael-P'> Mikhael Presley </a> </h5>
+    </div>
 
+<div>
+    <img src="images/arnaud.jpeg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/ARNAUD-25'> Arnaud Watusadisi Mavakala </a> </h5>
+</div>
+
+<div>
+    <img src="images/arnaud.jpeg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/ARNAUD-25'> Jeannette</a> </h5>
+</div>
+</div>
+ 
 
 
