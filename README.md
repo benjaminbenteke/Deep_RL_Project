@@ -48,7 +48,7 @@ python main.py --model MODEL_NAME
 <h1> Contributors </h1>
 
 <div style="display:flex;align-items:center">
-    <img src="images/bennn.jpg" height= 7% width= 7%>
+    <img src="images/bennn.jpg" height= 5% width= 7%>
     <img src="images/maram.jpeg" height= 7% width= 7%>
     <img src="images/mikhael.jpeg" height= 7% width= 7%>
     <img src="images/arnaud.jpeg" height= 7% width= 7%>
