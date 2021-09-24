@@ -54,7 +54,13 @@ $ python main.py --model dueling
 
 
 # Results Presentation
-![caption](images/clip_dqn.gif) ![caption](images/clip_dueling.gif)
+
+``` DQN result```  </br>
+![caption](images/clip_dqn.gif) 
+
+``` Dueling DQN result```  </br>
+
+![caption](images/clip_dueling.gif)
 
 # Contributors #
 <div style="display:flex;align-items:center">
