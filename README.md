@@ -1,13 +1,17 @@
+# Problem understanding
+## Environment description
+A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force of +1 or -1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over. A reward of +1 is provided for every timestep that the pole remains upright. The episode ends when the pole is more than 15 degrees from vertical, or the cart moves more than 2.4 units from the center. More information can be founded <a href="https://arxiv.org/pdf/2012.07723.pdf"> here </a>. The figure below illustrates: </br>
+<p align="center">
+<img src= 'images/Game.jpeg' height= 30% width= 30%>
+</p>
 
-<h1> Problem understanding</h1>
-
-
+## Goal of the paper
 <p> In this paper, we we used Deep Q-network (DQN) and Dueling DQN agent control to CartPole v1 sytem. The main Papers that we used are: <a href='https://arxiv.org/pdf/1312.5602.pdf' target="_blank">DQN </a> and <a href='https://arxiv.org/pdf/1511.06581.pdf' target="_blank">Dueling DQN </a> . </p>
 
-<p> The problem is to prevent the vertical bar from falling by moving the car left or right (these represent the action space). To solve the problem <a href="https://arxiv.org/pdf/2012.07723.pdf"> CartPole v1 description </a>, the agent needs to receive an average total reward greater or equal to $475$ over $100$ consecutive episodes. As the figure below shows: </p><br/>
-<img src= 'images/Game.jpeg' height= 30% width= 30%>
+<p> The problem is to prevent the vertical bar from falling by moving the car left or right (these represent the action space). To solve the problem <a href="https://arxiv.org/pdf/2012.07723.pdf"> CartPole v1 description </a>, the agent needs to receive an average total reward greater or equal to $475$ over $100$ consecutive episodes. As the figure below shows: </p>
 
-<h1> Install the Project </h1>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb)
+# Install the Project
 
 ```
 $ git clone https://github.com/benjaminbenteke/Deep_RL_Project.git 
@@ -16,29 +20,29 @@ $ git clone https://github.com/benjaminbenteke/Deep_RL_Project.git
 ```
 $ cd Deep_RL_Project
 ```
-<h1> Create a virtual environment (or use conda)</h1>
+# Create a virtual environment (or use conda)
 
 ```
 $ python3 -m venv ENV_NAME
 ```
-<h2> Activate your environment </h2>
+## Activate your environment 
 
 ```
 $ source ENV_NAME/bin/activate
 ```
 
-<h1> Requirement installations</h1>
+# Requirement installations
 To run this, make sure to install all the requirements by:
 
 ```
 $ !pip install -r requirements.txt 
 ```
-<h1> Running the model</h1>
+# Running the model
 
 ```
 $ python main.py --model MODEL_NAME
 ```
-<h2> Example of running models </h2>
+## Example of running models
 
 ```
 $ python main.py --model dqn
@@ -49,7 +53,7 @@ $ python main.py --model dueling
 ```
 
 
-<h1> Results Presentation</h1>
+# Results Presentation
 <div style="display:flex"> 
 <div>
     <video width="320" height="240" controls>
@@ -65,7 +69,7 @@ $ python main.py --model dueling
 </div>
 </div>
 
-<h1> Contributors </h1>
+# Contributors #
 <div style="display:flex;align-items:center">
 
 <div style="display:flex;align-items:center">
@@ -88,6 +92,5 @@ $ python main.py --model dueling
     <h5> <a href='https://github.com/Jeannette-del'> Jeanette Nyirahakizimana</a> </h5><img src="images/jeanette.jpeg" height= 10% width= 10%> 
 </div>
 </div>
- 
 
 
