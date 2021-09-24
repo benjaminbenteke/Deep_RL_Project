@@ -10,7 +10,10 @@
 <h1> Install the Project </h1>
 
 ```
-git clone https://github.com/benjaminbenteke/Deep_RL_Project.git </br>
+git clone https://github.com/benjaminbenteke/Deep_RL_Project.git 
+``` </br>
+
+```
 cd Deep_RL_Project
 ```
 
