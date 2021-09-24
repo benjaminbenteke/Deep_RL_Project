@@ -36,7 +36,6 @@ python main.py --model MODEL_NAME
 </div>
 </div>
 
-<a href="{images/clip_2.mp4}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
 
 
 
