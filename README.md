@@ -30,20 +30,7 @@ python main.py --model MODEL_NAME
 ```
 
 <h1> Results Presentation</h1>
-<div style="display:flex"> 
-<div>
-    <video width="320" height="240" controls>
-    <source src="images/clip_2.mp4" type="video/mp4">
-    </video>
-    <h3>DQN results</h3>
-</div>
-<div>
-    <video width="320" height="240" controls>
-        <source src="images/clip_2.mp4" type="video/mp4">
-    </video>
-    <h3>Dueling DQN result </h3>
-</div>
-</div>
+
 
 <h1> Contributors </h1>
 
