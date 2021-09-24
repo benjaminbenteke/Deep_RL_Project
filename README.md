@@ -85,7 +85,7 @@ $ python main.py --model dueling
 </div>
 
 <div>
-    <h5> <a href='https://github.com/Jeannette-del'> Jeanette Nyirahakizimana</a> </h5><img src="images/arnaud.jpeg" height= 7% width= 7%> 
+    <h5> <a href='https://github.com/Jeannette-del'> Jeanette Nyirahakizimana</a> </h5><img src="images/jeanette.jpeg" height= 7% width= 7%> 
 </div>
 </div>
  
