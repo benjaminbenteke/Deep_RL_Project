@@ -28,6 +28,16 @@ To run this, make sure to install all the requirements by:
 ```
 python main.py --model MODEL_NAME
 ```
+<h2> Example of running models </h2>
+
+```
+python main.py --model dqn
+```
+
+```
+python main.py --model dueling
+```
+
 
 <h1> Results Presentation</h1>
 <div style="display:flex"> 
