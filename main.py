@@ -84,7 +84,7 @@ for i in range(1, args.num_episodes+1):
         tg_net.load_state_dict(q_net.state_dict())
 
   if score >= args.reward_threshold and ep_len >= args.min_episodes_criterion: 
-      torch.save(q_net.state_dict(), 'model.ckpt')
+      torch.save(q_net.state_dict(), 'models/model.ckpt')
       break
         
 plot(scores_all, q_values_all, losses_all)
