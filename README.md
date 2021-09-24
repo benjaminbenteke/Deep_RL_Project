@@ -54,21 +54,7 @@ $ python main.py --model dueling
 
 
 # Results Presentation
-<div style="display:flex"> 
-<div>
-    <video width="320" height="240" controls>
-    <source src="images/clip_2.mp4" type="video/mp4">
-    </video>
-    <h3>DQN results</h3>
-</div>
-<div>
-    <video width="320" height="240" controls>
-        <source src="https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
-" type="video/mp4">
-    </video>
-    <h3>Dueling DQN result </h3>
-</div>
-</div>
+![caption](images/clip_dqn.gif) ![caption](images/clip_dueling.gif)
 
 # Contributors #
 <div style="display:flex;align-items:center">
