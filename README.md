@@ -50,13 +50,13 @@ python main.py --model MODEL_NAME
 <div style="display:flex">
     <div>
         <img src="images/bennn.jpg" height= 7% width= 7%>
-        <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
-        Lonagu</a> </h3>
+        <h5> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
+        Lonagu</a> </h5>
     </div>
 <div>
-        <img src="images/pytorch.png" height= 10% width= 10%>
-        <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
-        Longau </a> </h3> </div>
+        <img src="images/bennn.jpg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
+        Longau </a> </h5> </div>
 
 <div>
         <img src="images/pytorch.png" height= 20% width= 50%>
