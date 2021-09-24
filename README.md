@@ -10,7 +10,7 @@ A pole is attached by an un-actuated joint to a cart, which moves along a fricti
 
 <p> The problem is to prevent the vertical bar from falling by moving the car left or right (these represent the action space). To solve the problem <a href="https://arxiv.org/pdf/2012.07723.pdf"> CartPole v1 description </a>, the agent needs to receive an average total reward greater or equal to $475$ over $100$ consecutive episodes. As the figure below shows: </p>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uVwt0g7LiC-XSUMQEpjISL30KDz9GVqt?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/dm_control/blob/master/tutorial.ipynb)
 # Install the Project
 
 ```
@@ -63,7 +63,8 @@ $ python main.py --model dueling
 </div>
 <div>
     <video width="320" height="240" controls>
-        <source src="images/clip_2.mp4" type="video/mp4">
+        <source src="https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+" type="video/mp4">
     </video>
     <h3>Dueling DQN result </h3>
 </div>
