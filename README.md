@@ -2,7 +2,7 @@
 <h1> Problem understanding</h1>
 
 
-<p> In this paper, we we used Deep Q-network (DQN) and Dueling DQN agent control to CartPole v1 sytem. The main Papers that we used are: <a href='https://arxiv.org/pdf/1312.5602.pdf'>DQN </a> and <a href='https://arxiv.org/pdf/1511.06581.pdf'>Dueling DQN </a> . </p>
+<p> In this paper, we we used Deep Q-network (DQN) and Dueling DQN agent control to CartPole v1 sytem. The main Papers that we used are: <a href='https://arxiv.org/pdf/1312.5602.pdf' target="_blank">DQN </a> and <a href='https://arxiv.org/pdf/1511.06581.pdf' target="_blank">Dueling DQN </a> . </p>
 
 <p> The problem is to prevent the vertical bar from falling by moving the car left or right (these represent the action space). To solve the problem <a href="https://arxiv.org/pdf/2012.07723.pdf"> CartPole v1 description </a>, the agent needs to receive an average total reward greater or equal to $475$ over $100$ consecutive episodes. As the figure below shows: </p><br/>
 <img src= 'images/Game.jpeg' height= 30% width= 30%>
