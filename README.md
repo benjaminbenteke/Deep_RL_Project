@@ -11,7 +11,7 @@
 
 ```
 git clone https://github.com/benjaminbenteke/Deep_RL_Project.git 
-``` </br>
+```
 
 ```
 cd Deep_RL_Project
