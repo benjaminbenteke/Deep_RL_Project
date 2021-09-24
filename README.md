@@ -10,42 +10,42 @@
 <h1> Install the Project </h1>
 
 ```
-git clone https://github.com/benjaminbenteke/Deep_RL_Project.git 
+$ git clone https://github.com/benjaminbenteke/Deep_RL_Project.git 
 ```
 
 ```
-cd Deep_RL_Project
+$ cd Deep_RL_Project
 ```
 <h1> Create a virtual environment (or use conda)</h1>
 
 ```
-python3 -m venv ENV_NAME
+$ python3 -m venv ENV_NAME
 ```
 <h2> Activate your environment </h2>
 
 ```
-source ENV_NAME/bin/activate
+$ source ENV_NAME/bin/activate
 ```
 
 <h1> Requirement installations</h1>
 To run this, make sure to install all the requirements by:
 
 ```
-!pip install -r requirements.txt 
+$ $ !pip install -r requirements.txt 
 ```
 <h1> Running the model</h1>
 
 ```
-python main.py --model MODEL_NAME
+$ python main.py --model MODEL_NAME
 ```
 <h2> Example of running models </h2>
 
 ```
-python main.py --model dqn
+$ python main.py --model dqn
 ```
 
 ```
-python main.py --model dueling
+$ python main.py --model dueling
 ```
 
 
