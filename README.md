@@ -30,7 +30,20 @@ python main.py --model MODEL_NAME
 ```
 
 <h1> Results Presentation</h1>
-
+<div style="display:flex"> 
+<div>
+    <video width="320" height="240" controls>
+    <source src="images/clip_2.mp4" type="video/mp4">
+    </video>
+    <h3>DQN results</h3>
+</div>
+<div>
+    <video width="320" height="240" controls>
+        <source src="images/clip_2.mp4" type="video/mp4">
+    </video>
+    <h3>Dueling DQN result </h3>
+</div>
+</div>
 
 <h1> Contributors </h1>
 
@@ -40,13 +53,23 @@ python main.py --model MODEL_NAME
         <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5>
     </div>
 <div>
-    <img src="images/bennn.jpg" height= 7% width= 7%>
-    <h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley </a> </h5>
+    <img src="images/maram.jpeg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/Maramy93'> Maram </a> </h5>
     </div>
     <div>
-        <img src="images/bennn.jpg" height= 7% width= 7%>
-        <h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley </a> </h5>
+        <img src="images/mikhael.jpeg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/Mikhael-P'> Mikhael Presley </a> </h5>
     </div>
+
+<div>
+    <img src="images/arnaud.jpeg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/ARNAUD-25'> Arnaud Watusadisi Mavakala </a> </h5>
+</div>
+
+<div>
+    <img src="images/arnaud.jpeg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/ARNAUD-25'> Jeannette</a> </h5>
+</div>
 </div>
         
 
