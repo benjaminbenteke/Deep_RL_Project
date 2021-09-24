@@ -8,6 +8,7 @@
 <img src= 'images/Game.jpeg' height= 30% width= 30%>
 
 <h1> Install the Project </h1>
+
 ```
 git clone https://github.com/benjaminbenteke/Deep_RL_Project.git <br>
 cd Deep_RL_Project
@@ -17,7 +18,7 @@ cd Deep_RL_Project
 To run this, make sure to install all the requirements by:
 
 ```
-!pip install -r requirements.txt
+!pip install -r requirements.txt 
 ```
 <h1> Running the model</h1>
 
