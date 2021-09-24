@@ -1,0 +1,5 @@
+gym/
+__pycache__/
+record_dir/
+checkpoints/
+\.DS_Store
