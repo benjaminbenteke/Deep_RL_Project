@@ -55,22 +55,7 @@ python main.py --model MODEL_NAME
 
 <div>
 <img src="images/bennn.jpg" height= 7% width= 7%>
-<h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley Kibinda </a> </h5>
-</div>
-
-<div>
-<img src="images/bennn.jpg" height= 7% width= 7%>
-<h5> <a href='https://github.com/benjaminbenteke'> Jeannette </a> </h5>
-</div>
-
-<div>
-<img src="images/bennn.jpg" height= 7% width= 7%>
-<h5> <a href='https://github.com/benjaminbenteke'> Maram </a> </h5>
-</div>
-
-<div>
-<img src="images/bennn.jpg" height= 7% width= 7%>
-<h5> <a href='https://github.com/benjaminbenteke'> Mikhael Arnaud Watusadisi Mavakala </a> </h5>
+<h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley </a> </h5>
 </div>
 </div>
         
