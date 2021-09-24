@@ -49,26 +49,26 @@ python main.py --model MODEL_NAME
 
 <div style="display:flex">
     <div>
-        <img src="images/pytorch.png" height= 70% width= 50%>
+        <img src="images/pytorch.png" height= 50% width= 50%>
         <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
         Lonagu</a> </h3>
     </div>
 <div>
-        <img src="images/pytorch.png" height= 70% width= 50%>
+        <img src="images/pytorch.png" height= 50% width= 50%>
         <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
         Longau </a> </h3> </div>
 
 <div>
-        <img src="images/pytorch.png" height= 70% width= 50%>
+        <img src="images/pytorch.png" height= 50% width= 50%>
         <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
         Longau </a> </h3> </div>
 <div>
-        <img src="images/pytorch.png" height= 70% width= 50%>
+        <img src="images/pytorch.png" height= 50% width= 50%>
         <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
         Longau </a> </h3> </div>
 
 <div>
-        <img src="images/pytorch.png" height= 70% width= 50%>
+        <img src="images/pytorch.png" height= 50% width= 50%>
         <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
         Longau </a> </h3> </div>
 </div>
