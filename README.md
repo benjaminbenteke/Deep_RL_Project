@@ -68,7 +68,7 @@ python main.py --model dueling
     <h5> <a href='https://github.com/Maramy93'> Maram </a> </h5>
     </div>
     <div>
-        <img src="images/mikhael.jpeg" height= 7% width= 7%>
+        <img src="images/mikhael_1.jpeg" height= 7% width= 7%>
         <h5> <a href='https://github.com/Mikhael-P'> Mikhael Presley </a> </h5>
     </div>
 
@@ -79,7 +79,7 @@ python main.py --model dueling
 
 <div>
     <img src="images/arnaud.jpeg" height= 7% width= 7%>
-    <h5> <a href='https://github.com/ARNAUD-25'> Jeannette</a> </h5>
+    <h5> <a href='https://github.com/Jeannette-del'> Jeannette</a> </h5>
 </div>
 </div>
  
