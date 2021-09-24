@@ -49,18 +49,17 @@ python main.py --model MODEL_NAME
 
 <div style="display:flex;align-items:center">
     <div>
-    <img src="images/bennn.jpg" height= 7% width= 7%>
-    <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5>
+        <img src="images/bennn.jpg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5>
     </div>
-
 <div>
-<img src="images/bennn.jpg" height= 7% width= 7%>
-<h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley </a> </h5>
-</div>
-<div>
-<img src="images/bennn.jpg" height= 7% width= 7%>
-<h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley </a> </h5>
-</div>
+    <img src="images/bennn.jpg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley </a> </h5>
+    </div>
+    <div>
+        <img src="images/bennn.jpg" height= 7% width= 7%>
+        <h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley </a> </h5>
+    </div>
 </div>
         
 
