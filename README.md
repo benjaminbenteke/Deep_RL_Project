@@ -62,10 +62,10 @@ python main.py --model dueling
     <div>
         <h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5> <img src="images/bennn.jpg" height= 7% width= 7%>
 <div>
-    <h5> <a href='https://github.com/Maramy93'> Maram </a> </h5> <img src="images/maram.jpeg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/Maramy93'> Maram A. Abdelrahman Mohamed </a> </h5> <img src="images/maram.jpeg" height= 7% width= 7%>
     
 <div>
-    <h5> <a href='https://github.com/Mikhael-P'> Mikhael Presley </a> </h5> <img src="images/mikhael_2.jpeg" height= 7% width= 7%>
+    <h5> <a href='https://github.com/Mikhael-P'> Mikhaël P. Kibinda-Moukengue </a> </h5> <img src="images/mikhael_2.jpeg" height= 7% width= 7%>
     
 </div>
 
@@ -75,7 +75,7 @@ python main.py --model dueling
 </div>
 
 <div>
-    <h5> <a href='https://github.com/Jeannette-del'> Jeannette</a> </h5><img src="images/arnaud.jpeg" height= 7% width= 7%> 
+    <h5> <a href='https://github.com/Jeannette-del'> JJeanette Nyirahakizimana</a> </h5><img src="images/arnaud.jpeg" height= 7% width= 7%> 
 </div>
 </div>
  
