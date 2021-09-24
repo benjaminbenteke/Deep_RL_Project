@@ -7,13 +7,18 @@
 <p> The problem is to prevent the vertical bar from falling by moving the car left or right (these represent the action space). To solve the problem <a href="https://arxiv.org/pdf/2012.07723.pdf"> CartPole v1 description </a>, the agent needs to receive an average total reward greater or equal to $475$ over $100$ consecutive episodes. As the figure below shows: </p><br/>
 <img src= 'images/Game.jpeg' height= 30% width= 30%>
 
+<h1> Install the Project </h1>
+```
+git clone https://github.com/benjaminbenteke/Deep_RL_Project.git <br>
+cd Deep_RL_Project
+```
+
 <h1> Requirement installations</h1>
 To run this, make sure to install all the requirements by:
 
 ```
 !pip install -r requirements.txt
 ```
-
 <h1> Running the model</h1>
 
 ```
