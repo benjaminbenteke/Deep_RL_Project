@@ -48,11 +48,30 @@ python main.py --model MODEL_NAME
 <h1> Contributors </h1>
 
 <div style="display:flex">
-    <div>
-        <img src="images/bennn.jpg" height= 7% width= 7%>
-        <h5> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
-        Lonagu</a> </h5>
-    </div>
+<div>
+<img src="images/bennn.jpg" height= 7% width= 7%>
+<h5> <a href='https://github.com/benjaminbenteke'> Benjamn Benteke Longau </a> </h5>
+</div>
+
+<div>
+<img src="images/bennn.jpg" height= 7% width= 7%>
+<h5> <a href='https://github.com/benjaminbenteke'> Mikhael Presley Kibinda </a> </h5>
+</div>
+
+<div>
+<img src="images/bennn.jpg" height= 7% width= 7%>
+<h5> <a href='https://github.com/benjaminbenteke'> Jeannette </a> </h5>
+</div>
+
+<div>
+<img src="images/bennn.jpg" height= 7% width= 7%>
+<h5> <a href='https://github.com/benjaminbenteke'> Maram </a> </h5>
+</div>
+
+<div>
+<img src="images/bennn.jpg" height= 7% width= 7%>
+<h5> <a href='https://github.com/benjaminbenteke'> Mikhael Arnaud Watusadisi Mavakala </a> </h5>
+</div>
 </div>
         
 
