@@ -49,7 +49,7 @@ python main.py --model MODEL_NAME
 
 <div style="display:flex">
     <div>
-        <img src="images/bennn.jpg" height= 10% width= 10%>
+        <img src="images/bennn.jpg" height= 7% width= 7%>
         <h3> <a href='https://github.com/benjaminbenteke'> Benjamin Benteke </br>
         Lonagu</a> </h3>
     </div>
