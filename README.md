@@ -35,7 +35,7 @@ $ source ENV_NAME/bin/activate
 To run this, make sure to install all the requirements by:
 
 ```
-$ !pip install -r requirements.txt 
+$ pip install -r requirements.txt 
 ```
 # Running the model
 
