@@ -74,7 +74,7 @@ $ python main.py --model dueling
 # Results Presentation
 
 ``` DQN result: 500```  </br>
-![caption](images/ddqn_cartpol-v1.gif) 
+![caption](images/dqn_cartpol-v1.gif) 
 
 ``` Dueling DQN result```  </br>
 
